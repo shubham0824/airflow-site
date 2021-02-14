@@ -14,6 +14,16 @@ menu:
 **Note:** Follow [@ApacheAirflow](https://twitter.com/ApacheAirflow) on Twitter for the latest news and announcements!
 
 
+# February 8, 2021
+
+We've just released Apache Airflow 2.0.1.
+
+📦 PyPI: https://pypi.org/project/apache-airflow/2.0.1 \
+📚 Docs: https://airflow.apache.org/docs/apache-airflow/2.0.1/ \
+🛠️ Changelog: https://airflow.apache.org/docs/apache-airflow/2.0.1/changelog.html
+
+We also released 61 updated and 2 new providers.
+
 # January 5, 2021
 
 Airflow PMC welcomes **Vikram Koka** ([@vikramkoka](https://github.com/vikramkoka)) as the newest Airflow Committer.
@@ -40,16 +50,16 @@ We've just released Apache Airflow 2.0.0. You can read more about what 2.0 bring
 
 We've just released Apache Airflow 1.10.14. This is a "bridge" release for Airflow 2.0.
 
-PyPI: https://pypi.org/project/apache-airflow/1.10.14
-Docs: https://airflow.readthedocs.io/en/1.10.14/
+PyPI: https://pypi.org/project/apache-airflow/1.10.14 \
+Docs: https://airflow.readthedocs.io/en/1.10.14/ \
 Changelog: https://airflow.readthedocs.io/en/1.10.14/changelog.html
 
 # November 25, 2020
 
 We've just released Apache Airflow 1.10.13
 
-PyPI: https://pypi.org/project/apache-airflow/1.10.13
-Docs: https://airflow.readthedocs.io/en/1.10.13/
+PyPI: https://pypi.org/project/apache-airflow/1.10.13 \
+Docs: https://airflow.readthedocs.io/en/1.10.13/ \
 Changelog: https://airflow.readthedocs.io/en/1.10.13/changelog.html
 
 405 commits since 1.10.12 (6 New Features, 31 Improvements, 30 Bug Fixes, and tons of doc changes and internal changes)
@@ -426,7 +436,6 @@ Apache Airflow graduates from the Incubator and is now a TLP!
     - You can find more announcements on our twitter account as well : [@ApacheAirflow](https://twitter.com/ApacheAirflow)
 
 - Community Blogs
-    - [Blog on Polidea](https://www.polidea.com/blog/apache-airflow-announced-as-a-top-level-project/)
     - [Apache Airflow announced as a Top-Level Project — How does ING WB Advanced Analytics use Airflow?](https://medium.com/wbaa/apache-airflow-announced-as-a-top-level-project-how-does-ing-wb-advanced-analytics-use-airflow-ed7990ffba9c)
     - [Apache Airflow Grows Up!](https://medium.com/@r39132/apache-airflow-grows-up-c820ee8a8324)
 
